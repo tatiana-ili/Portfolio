@@ -1,5 +1,8 @@
 # Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости
 
+[HTML](https://nbviewer.org/github/tatiana-ili/Portfolio/blob/main/yandex_realty/yandex_realty.ipynb) \
+[ipynb](https://github.com/tatiana-ili/Portfolio/blob/main/yandex_realty/yandex_realty.ipynb)
+
 *Статус:* проект завершен.
 
 ## Данные
