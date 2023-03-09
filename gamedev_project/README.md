@@ -1,5 +1,8 @@
 # Изучение закономерностей, определяющих успешность игр
 
+[HTML](https://nbviewer.org/github/tatiana-ili/Portfolio/blob/main/gamedev_project/gamedev_project.ipynb) \
+[ipynb](https://github.com/tatiana-ili/Portfolio/blob/main/gamedev_project/gamedev_project.ipynb)
+
 *Статус:* проект завершен.
 
 ## Данные
