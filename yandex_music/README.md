@@ -1,5 +1,8 @@
 # Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов
 
+[HTML](https://nbviewer.org/github/tatiana-ili/Portfolio/blob/main/yandex_music/yandex_music_project.ipynb) \
+[ipynb](https://github.com/tatiana-ili/Portfolio/blob/main/yandex_music/yandex_music_project.ipynb)
+
 *Статус:* проект завершен.
 
 ## Данные
