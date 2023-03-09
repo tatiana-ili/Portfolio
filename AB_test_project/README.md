@@ -1,5 +1,8 @@
 # Проверка гипотез по увеличению выручки в интернет-магазине.
 
+[HTML](https://nbviewer.org/github/tatiana-ili/Portfolio/blob/main/AB_test_project/AB_test_project.ipynb) \
+[ipynb](https://github.com/tatiana-ili/Portfolio/blob/main/AB_test_project/AB_test_project.ipynb)
+
 *Статус:* проект завершен.
 
 ## Данные
