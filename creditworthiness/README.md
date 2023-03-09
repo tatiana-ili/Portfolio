@@ -1,5 +1,8 @@
 # Исследование надёжности заёмщиков — анализ банковских данных
 
+[HTML](https://nbviewer.org/github/tatiana-ili/Portfolio/blob/main/creditworthiness/creditworthiness.ipynb) \
+[ipynb](https://github.com/tatiana-ili/Portfolio/blob/main/creditworthiness/creditworthiness.ipynb)
+
 *Статус:* проект завершен.
 
 ## Данные
