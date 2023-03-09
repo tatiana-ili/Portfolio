@@ -1,5 +1,8 @@
 # Анализ пользовательского поведения в мобильном приложении.
 
+[HTML](https://nbviewer.org/github/tatiana-ili/Portfolio/blob/main/event-based_analysis/event-based_analysis.ipynb) \
+[ipynb](https://github.com/tatiana-ili/Portfolio/blob/main/event-based_analysis/event-based_analysis.ipynb)
+
 *Статус:* проект завершен.
 
 ## Данные
