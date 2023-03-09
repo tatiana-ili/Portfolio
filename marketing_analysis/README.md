@@ -1,5 +1,8 @@
 # Анализ убытков приложения ProcrastinatePRO+
 
+[HTML](https://nbviewer.org/github/tatiana-ili/Portfolio/blob/main/marketing_analysis/marketing_analysis.ipynb) \
+[ipynb](https://github.com/tatiana-ili/Portfolio/blob/main/marketing_analysis/marketing_analysis.ipynb)
+
 *Статус:* проект завершен.
 
 ## Данные
