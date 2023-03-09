@@ -1,5 +1,8 @@
 # Определение выгодного тарифа для телеком компании
 
+[HTML](https://nbviewer.org/github/tatiana-ili/Portfolio/blob/main/telecom_stats/telecom_stats.ipynb) \
+[ipynb](https://github.com/tatiana-ili/Portfolio/blob/main/telecom_stats/telecom_stats.ipynb)
+
 *Статус:* проект завершен.
 
 ## Данные
