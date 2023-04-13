@@ -1,7 +1,7 @@
 # Формирование модели монетизации для мобильной игры "Космические братья".
 
-[HTML][(https://nbviewer.org/github/tatiana-ili/Portfolio/blob/main/gamedev2/final_gameV2.ipynb])
-[ipynb]([https://github.com/tatiana-ili/Portfolio/blob/main/gamedev2/final_gameV2.ipynb])
+[HTML](https://nbviewer.org/github/tatiana-ili/Portfolio/blob/main/gamedev2/final_gameV2.ipynb)\
+[ipynb](https://github.com/tatiana-ili/Portfolio/blob/main/gamedev2/final_gameV2.ipynb)
 
 *Статус:* проект завершен.
 
